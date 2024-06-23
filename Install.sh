@@ -16,7 +16,7 @@
 # - Swift installation process, reducing manual effort and saving time.
 
 # Author: Sagar Biswas
-# GitHub Repository: https://github.com/sagar040/proot-distro-nethunter
+# GitHub Repository: https://github.com/Crash018/Nethunter-root
 
 set -e
 
@@ -67,7 +67,7 @@ info(){
     banner
     echo -e "\n\e[38;5;250mInstall Kali Nethunter (official version) on proot-distro. This is a Bash script that automates the installation of Kali NetHunter with the proot-distro tool.\033[0m\n"
     echo -e "\e[38;5;45mUsage:\033[0m $0 --install\n"
-    echo -e "\e[38;5;45mGithub Repo:\033[0m \e[38;5;240mhttps://github.com/sagar040/proot-distro-nethunter\033[0m\n"
+    echo -e "\e[38;5;45mGithub Repo:\033[0m \e[38;5;240mhttps://github.com/Crash018/Nethunter-root\033[0m\n"
     echo -e ""
     exit 0
 }
